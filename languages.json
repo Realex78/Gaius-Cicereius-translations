@@ -469,17 +469,17 @@
                 },
                 "sp": {
                         "colors": [
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                ""
+                                "negro",
+                                "púrpura",
+                                "rojo",
+                                "amarillo",
+                                "azul",
+                                "rosado",
+                                "naranja",
+                                "verde azulado",
+                                "verde",
+                                "marrón",
+                                "blanco"
                         ]
                 },
                 "gr": {}
@@ -525,41 +525,42 @@
                         ]
                 },
                 "sp": {
-                        "addrole":"",
-                        "bug":"",
-                        "clear":"",
-                        "cmds":"",
+                        "addrole":"Creado nuevo rol personalizado: {rn}\nCualquier usuario ahora puede añadir este rol haciendo **{gp}{rn}**",
+                        "bug":"Hecho, informe de error enviado.",
+                        "clear":"Tu color ha sido eliminado.",
+                        "cmds":"Comandos personalizados:",
                         "coin": [
-                                "",
-                                "",
-                                ""
+                                "Voltea una moneda",
+                                "Cara",
+                                "Cruz"
                         ],
-                        "colors":"",
+                        "colors":"Colores posibles actuales: ",
                         "help": [
-                                "",
-                                "",
-                                ""
+                                "Comandos: \n",
+                                "Comandos de staff: \n",
+                                "\nUsa: {gp}help *staff* para obtener mis comandos de moderación de chat"
                         ],
-                        "inviteme":"",
+                        "inviteme":"Este es mi enlace de invitación: ",
                         "stats": [
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                ""
+                                "Estadísticas de Gaius Bot",
+                                "Colaboradores:",
+                                "%b% : Código:\n%T% : PR / Diseño de web\n%s% : Documentación",
+                                "Servidores",
+                                "Canales de texto",
+                                "Canales de voz",
+                                "Usuarios totales",
+                                "Mensajes",
+                                "Emojis totales",
+                                "Versión: ",
+                                "Tiempo de actividad",
+                                "Latencia",
+                                "Milisegundos.",
+                                "Soporte técnico y noticias",
+                                "Imágenes censuradas"
                         ],
                         "logging": [
-                                "",
-                                ""
+                                "Usuario",
+                                "prohibido unirse al servidor para"
                         ]
                 }
         },
@@ -591,27 +592,27 @@
                 },
                 "sp": {
                         "generic": [
-                                ""
+                                "ERROR: Tienes los mensajes directos bloqueados en este servidor."
                         ],
                         "addrole": [
-                                "",
-                                ""
+                                "ERROR: No puedes nombrar un rol con el mismo nombre que el de un comando.",
+                                "ERROR: No se pueden agregar roles personalizados, ya pueden obtenerse habilitando el soporte de color"
                         ],
                         "ban": [
-                                "",
-                                "",
-                                ""
+                                "ERROR: ",
+                                "ERROR: ID de usuario incorrecta.",
+                                "ERROR: No puedo banear al usuario, ¿quizás no tengo permiso?"
                         ],
-                        "clear": "",
-                        "cmds": "",
-                        "purge": "",
+                        "clear": "ERROR: Tu no tienes ningún color para quitar",
+                        "cmds": "No hay comandos personalizados para este servidor",
+                        "purge": "ERROR: Yo no tengo el permiso de eliminar mensajes",
                         "setdesc": [
-                                "",
-                                ""
+                                "ERROR: No hay descripción para el rol.",
+                                "ERROR: Rol no encontrado."
                         ],
-                        "idea": "",
+                        "idea": "ERROR: caracter **%** no encontrado. Usa {gp}help para descubrir el formato.",
                         "logging": [
-                                ""
+                                "He desactivado el inicio de sesión de tu servidor porque el canal que utilizas para iniciar sesión ya no existe. La configuración se mantendrá pero deberá volver a encenderla."
                         ]
                 }
         }
