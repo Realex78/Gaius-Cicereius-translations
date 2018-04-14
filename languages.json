@@ -136,9 +136,9 @@
                         "filtwarn": "Sets whether or not users should be notified why their message was deleted by the filters."
                 },
                 "sp": {
-                        "purge": "",
+                        "purge": "Elimina una cantidad especificada de mensajes, menciona a un usuario para borrar solo los mensajes de ese usuario.",
                         "help":"",
-                        "ping":"",
+                        "ping":"Comprueba la latencia.",
                         "inviteme":"",
                         "bug":"",
                         "queuelist":"",
