@@ -14,16 +14,17 @@
                         "verify": "**Verify**\nAssign a role to the bot that, upon doing a basic command, will be assigned to the user. Usually used to make people read rules before accessing the rest of the server."
                 },
                 "sp": {
-                        "purger": "",
-                        "roles": "",
-                        "colors": "",
-                        "extras": "",
-                        "commands": "",
-                        "warn": "",
-                        "mute": "",
-                        "kick": "",
-                        "ban": "",
-                        "welcome": ""
+                        "purger": "Módulo que permite al bot borrar mensajes masivamente, también admite borrar menciones.",
+                        "roles": "Módolo que te permite crear y gestionar roles personalizados que todo el mundo en el servidor puede añadirse a ellos mismos, estos roles vienen sin ningún permiso extra y pueden ser añadidos simplemente escribiendo %p%*nombrederol*.",
+                        "colors": "Este módulo crea un montón de colores que pueden ser añadidos por cualquier usuario del servidor escribiendo %p%color*. Los colores no tienen ningún permiso especial pero no se sobreescribirán automáticamente y necesitarás liarte con la jerarquía de los roles para que sean exactamente como te gustarían.",
+                        "extras": "Contiene un montón de cosas aleatorias que fueron añadidas principalmente por diversión, dado, piedra papel y tijera, es básicamente donde están todods los comandos divertidos.",
+                        "commands": "Permite al rol moderador y superiores crear comandos personalizados y respuestas para el bot. Esto permitirá a cualquier usuario usar dichos comandos tras su creación.",
+                        "warn": "El módulo de advertencia, avisa a personas, perdona a personas y comprueba los avisos de las personas de tu servidor además de poder personalizar mensajes de castigo para una cantidad determinada de avisos.",
+                        "mute": "Módulo que permite el silenciamiento de usuarios, los silencios se dan a cabo mediante una sobreescritura de los permisos del canal o por rol (si escribes !switchm, permite silencios temporales).",
+                        "kick": "Módulo que permite la expulsión de usuarios, opcionalmente puedes incluir una razón.",
+                        "ban": "Módulo que permite el bloqueo de usuarios, no es necesaria una razón pero sí recomendable.",
+                        "welcome": "El bot dará la bienvenida a usuarios con un texto o con un mensaje de bienvenida insertado. Esto también permite mensajes personalizables con menciones de usuarios y nombres de servidor. El mensaje de despedida puede ser desactivado si lo deseas."
+                        "verify": "Asigna un bot al rol que, al realizar un comando básico, será asignado al usuario. Es usado normalmente para hacer que las personas lean las normas antes de acceder al resto del servidor."
                 }
         },
         "descriptions": {
