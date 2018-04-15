@@ -23,7 +23,7 @@
                         "mute": "Módulo que permite el silenciamiento de usuarios, los silencios se dan a cabo mediante una sobreescritura de los permisos del canal o por rol (si escribes !switchm, permite silencios temporales).",
                         "kick": "Módulo que permite la expulsión de usuarios, opcionalmente puedes incluir una razón.",
                         "ban": "Módulo que permite el bloqueo de usuarios, no es necesaria una razón pero sí recomendable.",
-                        "welcome": "El bot dará la bienvenida a usuarios con un texto o con un mensaje de bienvenida insertado. Esto también permite mensajes personalizables con menciones de usuarios y nombres de servidor. El mensaje de despedida puede ser desactivado si lo deseas."
+                        "welcome": "El bot dará la bienvenida a usuarios con un texto o con un mensaje de bienvenida insertado. Esto también permite mensajes personalizables con menciones de usuarios y nombres de servidor. El mensaje de despedida puede ser desactivado si lo deseas.",
                         "verify": "Asigna un bot al rol que, al realizar un comando básico, será asignado al usuario. Es usado normalmente para hacer que las personas lean las normas antes de acceder al resto del servidor."
                 }
         },
