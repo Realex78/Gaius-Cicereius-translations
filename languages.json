@@ -601,7 +601,7 @@
                                 "ERROR: No se pueden agregar roles personalizados, ya pueden obtenerse habilitando el soporte de color"
                         ],
                         "ban": [
-                                "ERROR: ",
+                                "ERROR: No banearé admins o admins globales",
                                 "ERROR: ID de usuario incorrecta.",
                                 "ERROR: No puedo banear al usuario, ¿quizás no tengo permiso?"
                         ],
